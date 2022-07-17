@@ -1,2 +1,2 @@
 # demo_test_repo
-Repositorio temporal
+Repositorio temporal para clase en domingo
